@@ -1,0 +1,88 @@
+#!/bin/bash
+#
+#clear
+#
+##m john@rigler.org
+##d 201604270600CST
+#
+##Welcome to pianoroll. It currently 
+##lives in /usr/local/bin/piano.  Libr-
+##aries are going to go into
+##/etc/pianoroll, and will just get 
+## loaded when it starts.
+#
+#" # 
+#
+#pwd
+#echo $*
+##
+##t 5:50AM
+
+cat $0 | cut -c 2- | more
+
+##  Maybe one day it will approach Lamdba~~~~~~~~~~~~~~~~~
+##  Calculus like beautiful LISP~~~~~~~~~~~~~~~~~~~~~~~~~~
+##o Use 'o' for origin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##o this begins to tie things back to~~~~~~~~~~~~~~~~~~~~~
+##o older ideas, captured via a different~~~~~~~~~~~~~~~~~
+##o media stream.  Maybe this is simply~~~~~~~~~~~~~~~~!~~
+##0 typo, but what could 0 stand for?~~~~~~!@!~~~~~~~~~~~~
+##1 the beginning of a series of numbers up to 9~~~~~~~~~~
+##3 that gets processed at 9~~~~Here~Comes~Everyone~~~~~~~
+##4 a bit like BASIC on the Apple ][e~~~~~xx`~~~~~~r\~~~~~
+##9 run c:/usr/local/bin/strawberry
+##o something for http://facebook/hushcautionecholand
+
+##t 6:02AM
+
+
+##t :10 
+## Blog about r-pleca, flexible code, bifrost, yys,
+## plastic
+
+
+##t :16
+## This is exciting, I am working on a few different levels
+## here.  The first point of order is that this thing must 
+## obviously execute correctly.
+##
+## And clearly comments are important.  But they are also 
+## themselves jumbled and coded.  This document has how 
+## been restricted.  I have typed so much within the double 
+## comment, that this can ony execute at one level of self-
+## reference.  
+
+##t :20
+##x :wq ; /usr/local/bin/piano
+
+##t :33
+
+
+##t :53
+##  from git
+
+echo "# pianoroll" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/johnrigler/pianoroll.git
+git push -u origin master
+
+
+####### ###########~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## This is added to the end of the document~~~~~~~~~~~
+##                                 04/27/2016~6:27AM~~
+## and is just a simple double-quote note~~~~~~~~~~~~~
+####### # # # # # # #
+####### # # # # # #
+# # #
+# #
+#
+
+# Pianoroll needs to process itself. This revamp the 
+# solution is ready to go from process to library.
+# But that should be a new file.  This needs to go on 
+# github.
+#
+
